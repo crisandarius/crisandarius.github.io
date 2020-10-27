@@ -1363,7 +1363,7 @@ blockquote {
   box-shadow:none;
   border-radius:0;
   border-color:#ccc;
-  border-style:none none solid none;
+  /* border-style:none none solid none; */
   width:100%;
   font-size:1.25em;
   transition:all .6s;
